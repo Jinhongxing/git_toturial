@@ -1,2 +1,6 @@
 this is a.txt
+<<<<<<< HEAD
 #anothe line added
+=======
+#another another line
+>>>>>>> master
